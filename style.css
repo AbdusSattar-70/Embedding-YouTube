@@ -6,11 +6,10 @@
 
 #videoList {
     order: 2;
-    background-color: aqua;
+    background-color: rgb(206, 252, 252);
     height: 500px;
     width: 300px;
-    font-size: large;
-    font-weight: bolder;
+    font-weight: 700;
 }
 
 #videoList a {
@@ -23,6 +22,9 @@
     list-style: none;
 }
 
+article {
+    color: rgb(247, 10, 196);
+}
 #VideoPlayer {
     height: 500px;
     width: 300px;
